@@ -130,7 +130,7 @@ select {
     color: #ff6f47;
 }
 
-@media screen and (max-width: 650px) {
+/* @media screen and (max-width: 650px) {
     .select {
         position: absolute;
         display: block;
